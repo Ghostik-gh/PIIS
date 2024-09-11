@@ -1,4 +1,2 @@
-*/Include
-*/Lib
-*/Scripts
-*/share
+*/venv
+pyvenv.cfg
